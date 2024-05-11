@@ -1,9 +1,4 @@
 {
-    "control":[
-        { "VTOY_DEFAULT_MENU_MODE": "1" },
-        { "VTOY_MENU_LANGUAGE": "zh_CN" },
-        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
-    ],
     "theme":{
         "file":[
             "/ventoy/themes/theme_1920x1080.txt",
